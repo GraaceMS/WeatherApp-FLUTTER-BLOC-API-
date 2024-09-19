@@ -13,7 +13,7 @@ final class WeatherBlocInitial extends WeatherBlocState {}
 final class WeatherBlocLoading extends WeatherBlocState {}
 
 final class WeatherBlocFailure extends WeatherBlocState {
-  final String? errorMessage; // Inclua uma mensagem de erro opcional
+  final String? errorMessage;
 
   const WeatherBlocFailure([this.errorMessage]);
 
