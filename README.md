@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-- EsSe é um aplicativo Flutter que fornece informações meteorológicas em tempo real com base na localização atual do usuário, utilizando a API do OpenWeatherMap e o pacote Geolocator para obter a posição geográfica.
+- Esse é um aplicativo Flutter que fornece informações meteorológicas em tempo real com base na localização atual do usuário, utilizando a API do OpenWeatherMap e o pacote Geolocator para obter a posição geográfica.
 
 ## Funcionalidades
 - O aplicativo captura a localização atual do usuário utilizando o Geolocator.
